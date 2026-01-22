@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
      <h1>Hello World! Welcome to React!</h1>
+     <p>Deployed on Azure Static Web Apps</p>
     </div>
   );
 }
